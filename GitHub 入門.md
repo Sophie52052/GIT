@@ -1,6 +1,10 @@
-# GitHub 入門
+# 主題：GitHub 入門 講者：和謙
+###### tags: `git`
 
-
+```
+Download/Install git
+https://git-scm.com/download/win
+```
 ```
 #第一次使用設定
 git config --global user.name "<your name>"
